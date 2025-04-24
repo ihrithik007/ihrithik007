@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hrithik Kumar</h1>
+<h1 align="center">Hi 👋, I'm Hrithik</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **New technologies**
